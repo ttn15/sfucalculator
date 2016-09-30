@@ -1,0 +1,94 @@
+h3{
+
+  color: #990000;
+}
+
+h2 {
+  color: #990000;
+}
+
+body {
+  background-color: #990000;
+  padding-left: 55px;
+  padding-right: 55px;
+  padding-top: 25px;
+}
+
+div.white {
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+  background-color: white;
+}
+
+
+div.blue {
+  width: 1000px;
+  background-color: #ccebff;
+  padding: 15px;
+  padding-bottom: 55px;
+  border-radius: 3px;
+  border: 2px solid #e0ebeb;
+}
+
+th {
+  background-color: #e6e6e6;
+  text-align: left;
+}
+
+table, tr, td, th {
+  table-layout: fixed;
+  height: 30px;
+  width: 150px;
+  padding: 5px;
+  border: 2px solid;
+  border-color: #cccccc;
+  border-collapse: collapse;
+}
+
+p.per {
+  text-align: center;
+}
+
+input {
+  padding: 7px;
+  font-size: 11px;
+}
+
+input.num {
+  text-align: right;
+  width: 83px;
+}
+
+input.den {
+  text-align: right;
+  width: 83px;
+}
+
+input.numerator {
+  text-align: right;
+}
+
+input.activity, input.sname {
+  display: table-cell;
+  width: 93%;
+}
+
+button {
+  color: white;
+  background-color: #990000;
+  border-style: hidden;
+  border-radius: 3px;
+  font-size: 13px;
+  text-align: center;
+  height: 30px;
+  width: 75px;
+  margin: 7px;
+}
+
+
+
+span.right_side {
+  float: right;
+}

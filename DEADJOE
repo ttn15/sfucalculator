@@ -1,0 +1,51 @@
+
+*** These modified files were found in JOE when it aborted on Fri Sep 30 16:17:16 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/ttn15/myProj/.git/COMMIT_EDITMSG
+
+*** File '/home/ttn15/myProj/.git/COMMIT_EDITMSG'
+submit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   Gemfile
+#	modified:   Gemfile.lock
+#	new file:   Gemfile~
+#	new file:   public/calculator.css
+#	new file:   public/calculator.html
+#	new file:   public/calculator.js
+#
+
+
+*** These modified files were found in JOE when it aborted on Fri Sep 30 16:25:24 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+exit
+
+*** File '(Unnamed)'
+/home/ttn15/myProj/.git/COMMIT_EDITMSG
+
+*** File '/home/ttn15/myProj/.git/COMMIT_EDITMSG'
+submit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   DEADJOE
+#	modified:   Gemfile
+#	modified:   Gemfile.lock
+#	new file:   Gemfile~
+#	new file:   public/calculator.css
+#	new file:   public/calculator.html
+#	new file:   public/calculator.js
+#
